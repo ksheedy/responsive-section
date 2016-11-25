@@ -23,11 +23,20 @@ body {
   margin-bottom: 1.3rem;
 }
 
-.wrapper {
+section {
   max-width: 45em;
   background-color: #e5c30a;
-  margin: 0;
+}
+
+.wrapper {
+  max-width: 45em;
+  margin: 0 auto;
   padding: 1.3rem;
+}
+
+.img-flex {
+  width: 100%;
+  display: block;
 }
 
 .section-letter {
